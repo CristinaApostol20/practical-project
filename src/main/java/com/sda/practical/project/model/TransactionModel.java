@@ -11,6 +11,7 @@ public class TransactionModel {
     @Id
     @GeneratedValue (strategy = GenerationType.IDENTITY)
     private int id;
+
     private String description;
 
     public int getId() {

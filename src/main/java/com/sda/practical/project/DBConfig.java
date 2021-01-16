@@ -4,7 +4,6 @@ import com.sda.practical.project.model.AccountsModel;
 import com.sda.practical.project.model.TransactionModel;
 import com.sda.practical.project.model.UserModel;
 import org.hibernate.SessionFactory;
-import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.cfg.Environment;
